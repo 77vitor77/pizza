@@ -23,12 +23,13 @@
     --color-preto: #000;
     --color-branco: #fff;
     --color-cinza-claro: #eee;
-    --color-cinza-escuro: #d9d9d9;
+    --color-cinza-escuro: #2c2c2c;
+    --color-cinza-escurao: #a1a1a1;
     --color-sucesso: #48d05f;
     --color-danger: #e92929;
     --color-azul-claro: #e5f4ff;
     --color-azul: #1298f8;
-    --color-azul-escurao: #0d74be;
+    --color-azul-escurao: #2b89cc;
 
     font-size: 16px;
 }
